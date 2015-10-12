@@ -14,4 +14,4 @@ Note: this is a quick & dirty application created for demo purpose.
 * Launch the consumer that append XML to log
 * Launch the consumer that append JSON to log (use Drill on this file)
 
-As mention before : quick & dirty, so not safe (bad IO operations)
+As mention before : quick & dirty, so not safe (bad IO operations), need to use SAX to deal with large XML documents/files...
